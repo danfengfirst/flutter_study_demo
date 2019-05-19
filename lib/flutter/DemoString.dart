@@ -1,3 +1,5 @@
  class DemoString {
-  String SliverDemo="SliverDemo";
+    static const int DemoCount=2;
+
+
  }
